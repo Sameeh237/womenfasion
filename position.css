@@ -1,0 +1,36 @@
+.container{
+    height: 300px;
+   
+    /* display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+    /* align-items: center; */
+    
+}
+.social{
+    /* grid-column: 1/4; */
+    /* background-color: black; */
+}
+.social p{
+    font-size: 32px;
+    color: #713C25;
+}
+ul{
+    margin-left: -15%;
+}
+ul li{
+    display: inline-block;
+    list-style: none;
+    color: #713C25;
+}
+ ul li a{
+  font-size: 24px;
+  color: #713C25;
+  padding-right: 70px;
+  
+}
+.adress{
+    /* grid-column: 4/6;
+    background-color: blue; */
+    font-size: 17px;
+    color: #713C25;
+}

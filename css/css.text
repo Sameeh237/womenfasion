@@ -1,0 +1,57 @@
+.text-section-1{
+    width: 1195px;
+    height: 997px;
+    align-items: center;
+    
+}
+.text-section-1{
+    grid-row-start: ;
+}
+.text-section-1 h1{
+    line-height: 200px;
+    font-weight: 400;
+    color: #713C25;
+  font-size: 140px;
+  
+}
+.items-section-1{
+    width: 969px;
+    height: 198px;
+    display: flex;
+    
+}
+.line img{
+    height: 350px;
+   
+}
+.button-section{
+    width: 400px;
+    height: 198px;
+    text-align:end; 
+    /* margin-right: 5%;  */
+}
+.button-section button{
+    width: 185px;
+    height: 60px;
+    background-color: transparent;
+    border: 1px solid #713C25;
+    /* margin-right: 2%; */
+    color: #713C25;
+   
+}
+.button-section p{
+    font-size: 16px;
+    padding: 10px;
+    color: #713C25;
+}
+.content-section{
+    width: 400px;
+    height: 198px; 
+    /* margin-left: 5%; */
+    
+}
+.content-section h3{
+    color: #713C25;
+    font-size: 35px; 
+     line-height: 55px; 
+}
